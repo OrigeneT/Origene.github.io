@@ -11,30 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSc. in Mathematical Sciences, African Institute for Mathematical Sciences-Rwanda, 2021
+* BSc. in Computer Engineering, University of Rwanda-college of science and technology
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2021 - Now: Data Analyst
+  * Palladium: Make It Possible(Implementing the USAID-Rwanda Integrated Health Systems Activity(RIHSA))
+  * Duties include: Data Collection, Data Preparation, cleaning, and conducting analysis, Data Quality assurance, Research standards and ethics assurance, Conducting research on different topics related to health financing, Conducting projections and domestic resource mobilization analyses toward the formulation of recommendations
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct 2021 - Jan 2022: Data Scientist
+  * Rwanda Revenue Authority
+  * Duties included: Employing machine learning in tax fraud detection and automation of tax refund process.
+  
+* Oct 2021 - Jan 2022: Applied Data Science Fellow(part-time)
+  * Think-it
+  * Project-based learning with real-world opportunities for applying skills through impact technology projects with Think-it teams and other partner organizations such as Kulimi e.V, Digital Skills Accelerator Africa (DSAA), IBM SkillsBuild, and the XPrize Pandemic Alliance.
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data analytics and visualization
+* Computing
+  * Mathematical Modeling
+  * Machine learning
+  * Programming in Python and R.
+  * Softwares: Stata, Power BI, Microsoft Office suites, LATEX.
+* IT Essentials
+
+Research Interests
+======
+* Fraud detection using machine learning
 
 Publications
 ======
@@ -42,18 +49,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Languages
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* English: fluent (Language of work)
+* Kinyarwanda: fluent (Mother tongue)
   
-Teaching
+References
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Available on request
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
