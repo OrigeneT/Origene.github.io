@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-. I am a data scientists experincied in 
-. MSc. in Mathematical Sciences at The African Institute for Mathematical Sciences (AIMS Rwanda)
-. BSc. Computer Engineering from University of Rwanda-College of Sciences and Technology
+* Research and Data analytics professional, Experienced in using data and machine leanring to solve real life problems  
+* MSc. in Mathematical Sciences at The African Institute for Mathematical Sciences (AIMS Rwanda)
+* BSc. Computer Engineering from University of Rwanda-College of Sciences and Technology
 
 Recent news (to be edited)
 ======
