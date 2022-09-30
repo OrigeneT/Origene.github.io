@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,6 +14,8 @@ redirect_from:
 
 Recent News 
 ======
+* July 22,2022, "Rethinking the Abuja Declaration: What is 15% to the health sector?". [Medium article](https://medium.com/@akankojim/rethinking-the-abuja-declaration-what-is-15-to-the-health-sector-1876147f5401).
+
 * May 31,2022, "Fraud Detection Using Neural Networks: A Case Study of Income Tax". Published in [MDPI, Big Data and Augmented Intelligence Section](https://www.mdpi.com/1999-5903/14/6/168).
 
 
