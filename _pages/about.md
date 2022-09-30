@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* Research and Data analytics professional, Experienced in using data and machine leanring to solve real life problems. My research intersts include Data informed decisions making, Machine learning for fraud detection,Machine learning for Economics.
+* Research and Data analytics professional, Experienced in using data and machine leanring to solve real life problems. My research intersts include Data informed decisions making, Machine learning for fraud detection, Machine learning for Economics.
 * MSc. in Mathematical Sciences at [The African Institute for Mathematical Sciences (AIMS Rwanda)](https://www.aims.ac.rw/)
 * BSc. Computer Engineering from [University of Rwanda-College of Sciences and Technology](https://cst.ur.ac.rw/)
 
