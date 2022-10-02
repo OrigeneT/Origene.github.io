@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Origene Tuyishimire"
 title_separator          : "-"
 name                     : &name "Origene Tuyishimire"
-description              : &description "An experienced Data Analyst with a research experience."
+description              : &description "An experienced Data Analyst with a proven experience in qualitative and quantitative Research."
 url                      : https://OrigeneT.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Origene Tuyishimire"
   avatar           : "profile.png"
-  bio              : "Data Analyst, Palladium Make it Possible"
+  bio              : "Data Analyst // Palladium Make it Possible"
   location         : "Kigali, Rwanda"
+  email            : "origenetuyishimire@gmail.com"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3qU4TLsAAAAJ&hl=en&oi=ao"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Origene-Tuyishimire-2"
   uri              :
   bitbucket        :
   codepen          :
