@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * MSc. in Mathematical Sciences, African Institute for Mathematical Sciences-Rwanda, 2021
-* BSc. in Computer Engineering, University of Rwanda-college of science and technology
+* BSc. in Computer Engineering, University of Rwanda-college of science and technology, 2019
 
 Work experience
 ======
-* Jan 2021 - Now: Data Analyst
+* Feb 2022 - Present: Data Analyst
   * Palladium: Make It Possible(Implementing the USAID-Rwanda Integrated Health Systems Activity(RIHSA))
   * Duties include: Data Collection, Data Preparation, cleaning, and conducting analysis, Data Quality assurance, Research standards and ethics assurance, Conducting research on different topics related to health financing, Conducting projections and domestic resource mobilization analyses toward the formulation of recommendations
 
@@ -24,7 +24,7 @@ Work experience
   * Rwanda Revenue Authority
   * Duties included: Employing machine learning in tax fraud detection and automation of tax refund process.
   
-* Oct 2021 - Jan 2022: Applied Data Science Fellow(part-time)
+* Aug 2021 - Nov 2021: Applied Data Science Fellow(part-time)
   * Think-it
   * Project-based learning with real-world opportunities for applying skills through impact technology projects with Think-it teams and other partner organizations such as Kulimi e.V, Digital Skills Accelerator Africa (DSAA), IBM SkillsBuild, and the XPrize Pandemic Alliance.
   
