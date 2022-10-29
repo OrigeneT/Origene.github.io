@@ -11,7 +11,7 @@ paperurl: ''
 
 
 
-citation: 'Murorunkwere, Belle Fille, Origene Tuyishimire, Dominique Haughton, and Joseph Nzabanita. (2022). &quot;Fraud Detection Using Neural Networks: A Case Study of Income Tax.&quot; <i>Future Internet, Section of "Big Data and Augmented Intelligence"</i>. 1(2).'
+citation: 'Murorunkwere, Belle Fille, Origene Tuyishimire, Dominique Haughton, and Joseph Nzabanita. (2022). &quot;Fraud Detection Using Neural Networks: A Case Study of Income Tax.&quot; <i>Future Internet, Section of "Big Data and Augmented Intelligence"</i>. 1(1).'
 ---
 
 [Read and Download paper here](https://www.mdpi.com/1999-5903/14/6/168)
