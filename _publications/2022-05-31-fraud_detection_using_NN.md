@@ -9,8 +9,8 @@ venue: 'Future Internet'
 paperurl: ''
 
 
-**Abstract**
-Detecting tax fraud is a top objective for practically all tax agencies in order to maximize revenues and maintain a high level of compliance. Data mining, machine learning, and other approaches such as traditional random auditing have been used in many studies to deal with tax fraud.
+>**Abstract**
+>Detecting tax fraud is a top objective for practically all tax agencies in order to maximize revenues and maintain a high level of compliance. Data mining, machine learning, and other approaches such as traditional random auditing have been used in many studies to deal with tax fraud.
 
 
 
