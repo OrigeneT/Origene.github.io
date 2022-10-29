@@ -2,8 +2,7 @@
 title: "Fraud Detection Using Neural Networks: A Case Study of Income Tax"
 collection: publications
 permalink: /publication/2022-05-31-fraud_detection_using_NN
-
-excerpt: ''
+excerpt: 'Detecting tax fraud is a top objective for practically all tax agencies in order to maximize revenues and maintain a high level of compliance. Data mining, machine learning, and other approaches such as traditional random auditing have been used in many studies to deal with tax fraud.'
 date: 2022-05-31
 venue: 'Future Internet'
 paperurl: ''
