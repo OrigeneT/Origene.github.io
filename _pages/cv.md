@@ -41,7 +41,8 @@ Skills
 
 Research Interests
 ======
-* Fraud detection using machine learning
+* Climate SCience and Financing
+* Health Financing
 
 Publications
 ======
@@ -53,6 +54,7 @@ Languages
 ======
 * English: fluent (Language of work)
 * Kinyarwanda: fluent (Mother tongue)
+* French: basic
   
 References
 ======
