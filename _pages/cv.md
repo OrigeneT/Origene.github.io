@@ -41,7 +41,7 @@ Skills
 
 Research Interests
 ======
-* Climate SCience and Financing
+* Climate Science and Financing
 * Health Financing
 
 Publications
