@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* Research and Data analytics professional, Experienced in using data and machine learning to solve real life problems. My research interests include  Unstructured data collection & analysis, Machine learning for network analysis, Machine learning for fraud detection, Machine learning for Economics.
+* A Research and Data Analystics professional with proven experience in a variety of sectors including Climate science, Health financing. Track record of successfully running and contributing to research studies in data collection, data handling, quality assurance, statistical analysis, as well as qualitative and quantitative research analysis.
 
 * MSc. in Mathematical Sciences at [The African Institute for Mathematical Sciences (AIMS Rwanda)](https://www.aims.ac.rw/)
 
