@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* A Research and Data Analystics professional with proven experience in a variety of fields including Climate science, Health financing. Track record of successfully running and contributing to research studies in data collection, data handling, quality assurance, statistical analysis, as well as qualitative and quantitative research analysis.
+* A Research and Data Analytics professional with proven experience in a variety of fields including Climate science, Health financing. Track record of successfully running and contributing to research studies in data collection, data handling, quality assurance, statistical analysis, as well as qualitative and quantitative research analysis.
 
 * MSc. in Mathematical Sciences at [The African Institute for Mathematical Sciences (AIMS Rwanda)](https://www.aims.ac.rw/)
 
